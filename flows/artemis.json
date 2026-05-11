@@ -16,12 +16,8 @@
       "width": 350,
       "height": 210,
       "dragging": false,
-      "position": { "x": -420, "y": 80 },
       "selected": false,
       "dragHandle": "",
-      "sourcePosition": "right",
-      "targetPosition": "left",
-      "positionAbsolute": { "x": -420, "y": 80 },
       "data": {
         "name": "README",
         "description": "Describe the ARTEMIS flow and supported conditions.",
