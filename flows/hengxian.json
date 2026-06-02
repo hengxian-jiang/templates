@@ -1,6 +1,6 @@
 {
-  "name": "Artemis",
-  "description": "A flow using OHDSI ARTEMIS R package to identify chemotherapy regimens from an OMOP CDM database.",
+  "name": "hengxian",
+  "description": "hengxian new file.",
   "edges": [
     {
       "source": "51cba923-4db7-4804-a46e-a47a63fc31a0",
